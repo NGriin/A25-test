@@ -1,0 +1,15 @@
+h1{
+    display: inline-block;
+}
+.row-header .col-12{
+    align-items: center;
+    display: flex;
+    column-gap: 25px;
+    flex-direction: row;
+}
+.row-header{
+    margin: 50px 0;
+}
+.btn-block {
+    margin-top: 12220px;
+}
